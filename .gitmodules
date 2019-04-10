@@ -1,0 +1,3 @@
+[submodule "fpga-images-zedboard"]
+	path = fpga-images-zedboard
+	url = https://github.com/ucb-bar/fpga-images-zedboard.git

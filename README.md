@@ -1,11 +1,10 @@
 Working images for running RISC-V on AX7021
 ============================
 
+# Synthesized
+
 BOOT.BIN taken from Alinx image.
 Kernel unpacked and repacked from https://github.com/ucb-bar/fpga-images-zedboard.
-
-How to use
----------------
 
 Run `build.sh`. Copy `boot.bin` and `build/zedboard.ub` to SD card.
 
